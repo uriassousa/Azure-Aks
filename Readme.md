@@ -19,7 +19,7 @@ git add "file"
 
 git commit -m "Mensagem para identificar a mudança" 
 
-#Versào no GitHub
+#Versão no GitHub
 
 Serão descrito os comandos aqui
 ...
